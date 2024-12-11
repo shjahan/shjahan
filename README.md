@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shjahanshah" target="blank"><img src="https://img.shields.io/twitter/follow/shjahanshah?logo=twitter&style=for-the-badge" alt="shjahanshah" /></a> </p>
 
-- 🔭 I’m currently working on **working on**
+- 🔭 I’m currently working on **Sysmart**
 
 - 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on **collaborate**
-
-- 🤝 I’m looking for help with **help**
 
 - 👨‍💻 All of my projects are available at [jahanshah.co](jahanshah.co)
 
